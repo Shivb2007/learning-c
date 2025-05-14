@@ -27,7 +27,7 @@ float circle(int r)
     float area;
     printf("Enter radius:- ");
     scanf("%d",&r);
-    area=(2)*(3.14)*(r);
+    area=(3.14)*(r)*(r);
     printf("Area of Circle is : %f",area);
 }
 
